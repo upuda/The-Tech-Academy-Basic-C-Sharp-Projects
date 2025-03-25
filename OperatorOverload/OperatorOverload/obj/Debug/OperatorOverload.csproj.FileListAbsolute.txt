@@ -1,0 +1,7 @@
+C:\Users\upany\OneDrive\Desktop\csharp\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorOverload\OperatorOverload\bin\Debug\OperatorOverload.exe.config
+C:\Users\upany\OneDrive\Desktop\csharp\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorOverload\OperatorOverload\bin\Debug\OperatorOverload.exe
+C:\Users\upany\OneDrive\Desktop\csharp\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorOverload\OperatorOverload\bin\Debug\OperatorOverload.pdb
+C:\Users\upany\OneDrive\Desktop\csharp\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorOverload\OperatorOverload\obj\Debug\OperatorOverload.csproj.AssemblyReference.cache
+C:\Users\upany\OneDrive\Desktop\csharp\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorOverload\OperatorOverload\obj\Debug\OperatorOverload.csproj.CoreCompileInputs.cache
+C:\Users\upany\OneDrive\Desktop\csharp\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorOverload\OperatorOverload\obj\Debug\OperatorOverload.exe
+C:\Users\upany\OneDrive\Desktop\csharp\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorOverload\OperatorOverload\obj\Debug\OperatorOverload.pdb
