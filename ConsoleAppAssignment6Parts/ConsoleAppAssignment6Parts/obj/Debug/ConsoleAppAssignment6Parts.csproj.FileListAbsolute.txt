@@ -1,0 +1,7 @@
+C:\Users\upany\OneDrive\Desktop\C#\TheTechAcademyProjects\New folder\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssignment6Parts\ConsoleAppAssignment6Parts\bin\Debug\ConsoleAppAssignment6Parts.exe.config
+C:\Users\upany\OneDrive\Desktop\C#\TheTechAcademyProjects\New folder\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssignment6Parts\ConsoleAppAssignment6Parts\bin\Debug\ConsoleAppAssignment6Parts.exe
+C:\Users\upany\OneDrive\Desktop\C#\TheTechAcademyProjects\New folder\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssignment6Parts\ConsoleAppAssignment6Parts\bin\Debug\ConsoleAppAssignment6Parts.pdb
+C:\Users\upany\OneDrive\Desktop\C#\TheTechAcademyProjects\New folder\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssignment6Parts\ConsoleAppAssignment6Parts\obj\Debug\ConsoleAppAssignment6Parts.csproj.AssemblyReference.cache
+C:\Users\upany\OneDrive\Desktop\C#\TheTechAcademyProjects\New folder\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssignment6Parts\ConsoleAppAssignment6Parts\obj\Debug\ConsoleAppAssignment6Parts.csproj.CoreCompileInputs.cache
+C:\Users\upany\OneDrive\Desktop\C#\TheTechAcademyProjects\New folder\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssignment6Parts\ConsoleAppAssignment6Parts\obj\Debug\ConsoleAppAssignment6Parts.exe
+C:\Users\upany\OneDrive\Desktop\C#\TheTechAcademyProjects\New folder\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssignment6Parts\ConsoleAppAssignment6Parts\obj\Debug\ConsoleAppAssignment6Parts.pdb
